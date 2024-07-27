@@ -1,1 +1,1 @@
-# MIMO-ExtraTree
+This repository contains the Python code for the ExtreTree model, designed to predict multi-output, high-dimensional, non-stationary time series. The model is tested using the UCI Appliances Energy Prediction dataset, available at the UCI ML repository. This dataset includes 10-minute interval data collected over approximately 4.5 months. A Zigbee wireless sensor network monitored the house's temperature and humidity, while weather data was sourced from the nearest airport weather station. The dataset comprises 19,735 samples and 27 variables.
